@@ -1,0 +1,29 @@
+C:\Users\Owner\Desktop\DealCard\DealCard\bin\Debug\DealCard.exe.config
+C:\Users\Owner\Desktop\DealCard\DealCard\bin\Debug\DealCard.exe
+C:\Users\Owner\Desktop\DealCard\DealCard\bin\Debug\DealCard.pdb
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.Form1.resources
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.Properties.Resources.resources
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.exe
+C:\Users\Owner\Desktop\DealCard\DealCard\obj\Debug\DealCard.pdb
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\bin\Debug\DealCard.exe.config
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\bin\Debug\DealCard.exe
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\bin\Debug\DealCard.pdb
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.Form1.resources
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.Properties.Resources.resources
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.csproj.GenerateResource.Cache
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.csproj.CoreCompileInputs.cache
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.exe
+C:\Users\Brad\Desktop\CSC217\HWK12\Example Files HW 12\DealCard\DealCard\obj\Debug\DealCard.pdb
+C:\Users\Dylan\Desktop\DealCard\DealCard\bin\Debug\DealCard.exe.config
+C:\Users\Dylan\Desktop\DealCard\DealCard\bin\Debug\DealCard.exe
+C:\Users\Dylan\Desktop\DealCard\DealCard\bin\Debug\DealCard.pdb
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.Form1.resources
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.Properties.Resources.resources
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.exe
+C:\Users\Dylan\Desktop\DealCard\DealCard\obj\Debug\DealCard.pdb
